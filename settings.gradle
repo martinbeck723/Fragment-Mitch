@@ -1,0 +1,2 @@
+rootProject.name='Fragments-mitch-java'
+include ':app'
